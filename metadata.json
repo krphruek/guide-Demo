@@ -1,0 +1,7 @@
+{
+  "name": "Remix: StoreLayout Auditor",
+  "description": "AI-powered visual merchandising verification system for retail stores to ensure compliance with setup guidelines.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
